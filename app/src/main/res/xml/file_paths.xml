@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~Copyright (c) 2019. Maksim Zdorovennov
+  -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="my-images"
+        path="Android/data/com.example.kotlinphoto/files/Pictures" />
+</paths>
